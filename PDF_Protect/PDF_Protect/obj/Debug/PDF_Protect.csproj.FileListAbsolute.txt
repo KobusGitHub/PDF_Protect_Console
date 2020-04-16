@@ -1,0 +1,13 @@
+C:\Users\kobus.jonker\Documents\PDF\PDF_Protect\PDF_Protect\bin\Debug\PDF_Protect.exe.config
+C:\Users\kobus.jonker\Documents\PDF\PDF_Protect\PDF_Protect\bin\Debug\PDF_Protect.exe
+C:\Users\kobus.jonker\Documents\PDF\PDF_Protect\PDF_Protect\bin\Debug\PDF_Protect.pdb
+C:\Users\kobus.jonker\Documents\PDF\PDF_Protect\PDF_Protect\bin\Debug\PdfSharp.Charting.dll
+C:\Users\kobus.jonker\Documents\PDF\PDF_Protect\PDF_Protect\bin\Debug\PdfSharp.dll
+C:\Users\kobus.jonker\Documents\PDF\PDF_Protect\PDF_Protect\bin\Debug\PdfSharp.xml
+C:\Users\kobus.jonker\Documents\PDF\PDF_Protect\PDF_Protect\bin\Debug\PdfSharp.Charting.xml
+C:\Users\kobus.jonker\Documents\PDF\PDF_Protect\PDF_Protect\bin\Debug\de\PdfSharp.resources.dll
+C:\Users\kobus.jonker\Documents\PDF\PDF_Protect\PDF_Protect\bin\Debug\de\PdfSharp.Charting.resources.dll
+C:\Users\kobus.jonker\Documents\PDF\PDF_Protect\PDF_Protect\obj\Debug\PDF_Protect.csprojAssemblyReference.cache
+C:\Users\kobus.jonker\Documents\PDF\PDF_Protect\PDF_Protect\obj\Debug\PDF_Protect.csproj.CopyComplete
+C:\Users\kobus.jonker\Documents\PDF\PDF_Protect\PDF_Protect\obj\Debug\PDF_Protect.exe
+C:\Users\kobus.jonker\Documents\PDF\PDF_Protect\PDF_Protect\obj\Debug\PDF_Protect.pdb
