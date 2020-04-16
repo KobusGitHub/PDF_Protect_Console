@@ -23,3 +23,16 @@ C:\Users\Kobus\Documents\Visual Studio 2019\PDF_Protect\PDF_Protect\obj\Release\
 C:\Users\Kobus\Documents\Visual Studio 2019\PDF_Protect\PDF_Protect\obj\Release\PDF_Protect.csproj.CopyComplete
 C:\Users\Kobus\Documents\Visual Studio 2019\PDF_Protect\PDF_Protect\obj\Release\PDF_Protect.exe
 C:\Users\Kobus\Documents\Visual Studio 2019\PDF_Protect\PDF_Protect\obj\Release\PDF_Protect.pdb
+C:\Git\PDF_Protect_Console\PDF_Protect\bin\Release\PDF_Protect.exe.config
+C:\Git\PDF_Protect_Console\PDF_Protect\bin\Release\PDF_Protect.exe
+C:\Git\PDF_Protect_Console\PDF_Protect\bin\Release\PDF_Protect.pdb
+C:\Git\PDF_Protect_Console\PDF_Protect\bin\Release\PdfSharp.Charting.dll
+C:\Git\PDF_Protect_Console\PDF_Protect\bin\Release\PdfSharp.dll
+C:\Git\PDF_Protect_Console\PDF_Protect\bin\Release\PdfSharp.xml
+C:\Git\PDF_Protect_Console\PDF_Protect\bin\Release\PdfSharp.Charting.xml
+C:\Git\PDF_Protect_Console\PDF_Protect\bin\Release\de\PdfSharp.resources.dll
+C:\Git\PDF_Protect_Console\PDF_Protect\bin\Release\de\PdfSharp.Charting.resources.dll
+C:\Git\PDF_Protect_Console\PDF_Protect\obj\Release\PDF_Protect.csproj.CoreCompileInputs.cache
+C:\Git\PDF_Protect_Console\PDF_Protect\obj\Release\PDF_Protect.csproj.CopyComplete
+C:\Git\PDF_Protect_Console\PDF_Protect\obj\Release\PDF_Protect.exe
+C:\Git\PDF_Protect_Console\PDF_Protect\obj\Release\PDF_Protect.pdb
